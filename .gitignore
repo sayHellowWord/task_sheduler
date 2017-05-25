@@ -1,0 +1,10 @@
+target/
+*.iml
+*.ipr
+*.iws
+.idea/
+/yd.web/target
+/yd.service/target
+/yd.bean/target
+/yd.utils/target
+/yd.common/target
